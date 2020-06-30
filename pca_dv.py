@@ -1,6 +1,5 @@
-# This program applies PCA to the IRIS dataset to understand
-# how PCA is used in visualization and
-# how dimensionality reduction is achieved using PCA.
+# This program applies PCA to the IRIS dataset to achieve
+# visualization and dimensionality reduction.
 
 #============================================================
 # Author: Marjan Khamesian
